@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"id":	"55d3626d-9308-4a68-b329-35afb95da23d",
+	"author":	"Rogier \"DocWilco\" Mulhuijzen",
+	"description":	{
+		"":	"This script will fix or unfix the tangent handles on all of the splines in the current sketch. Fixing is needed for scaling splines."
+	},
+	"version":	"0.1.0",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
