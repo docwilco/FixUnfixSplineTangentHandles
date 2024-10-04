@@ -6,7 +6,7 @@
 	"description":	{
 		"":	"This script will fix or unfix the tangent handles on all of the splines in the current sketch. Fixing is needed for scaling splines."
 	},
-	"version":	"0.1.1",
+	"version":	"0.1.2",
 	"supportedOS":	"windows|mac",
 	"editEnabled":	true
 }

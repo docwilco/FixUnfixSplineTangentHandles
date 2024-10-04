@@ -24,7 +24,8 @@ the unfixed ones. If you have only fixed handles it will unfix all of them.
 It will tell you what it's about to do, giving you a chance to cancel if you
 change your mind.
 
-Changelog
+## Changelog
 
+- 0.1.2: Slight fixes for the confirmation dialog
 - 0.1.1: Add privacy policy
 - 0.1.0: Initial release

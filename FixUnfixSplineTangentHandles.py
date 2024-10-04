@@ -62,12 +62,13 @@ def run(context):
             ui.messageBox(text, title, buttons, icon)
             return
         elif fixed_handles != 0: # All handles are fixed
+            title = 'Unfix Splines'
             action = FixUnfix.UNFIX
-            text = 'Unfixing {} tangent handles.'.format(fixed_handles)
+            text = 'About to unfix {} tangent handles.'.format(fixed_handles)
             icon = adsk.core.MessageBoxIconTypes.InformationIconType
             buttons = adsk.core.MessageBoxButtonTypes.OKCancelButtonType
         else: # All handles are unfixed
-            text = 'Fixing {} tangent handles.'.format(unfixed_handles)
+            text = 'About to fix {} tangent handles.'.format(unfixed_handles)
             icon = adsk.core.MessageBoxIconTypes.InformationIconType
             buttons = adsk.core.MessageBoxButtonTypes.OKCancelButtonType
         
