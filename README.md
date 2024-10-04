@@ -21,4 +21,10 @@ You can run it from Utilities > Scripts and Add-Ins. It will be called
 If you have both fixed and unfixed or only unfixed tangent handles, it will fix
 the unfixed ones. If you have only fixed handles it will unfix all of them.
 
-It will tell you what it's about to do, giving you a chance to cancel if you change your mind.
+It will tell you what it's about to do, giving you a chance to cancel if you
+change your mind.
+
+Changelog
+
+- 0.1.1: Add privacy policy
+- 0.1.0: Initial release
